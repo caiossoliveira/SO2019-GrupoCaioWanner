@@ -1,0 +1,13 @@
+Para execução dos algoritmos com as coletagens dos tempos, execute o arquivo script.sh por meio do seguinte comando no terminal:
+
+./script.sh
+
+
+Todos os valores obtidos nos cálculos do pi e da simulação, bem como os tempos de execução obtidos serão salvos em arquivos .txt
+com o seguinte nome:
+
+saidaTempo'Tipo_de_implantacao''Algoritmo'.txt
+
+Exemplo:
+
+saidaTempoParaleloBorwein.txt

@@ -1,0 +1,1680 @@
+
+   --------------------------------------------------------------------
+   |                        Conteudo do Arquivo                       |
+     100.0
+     110.0
+     10.0
+     1.0
+     1.0
+     100000
+   --------------------------------------------------------------------
+
+   --------------------------------------------------------------------
+   |                     Simulacao de Monte Carlo                     |
+   |                     Modelo de Black Scholes                      |
+
+     Valor da acao: 100.000000
+     Preco de exercicio da apcao: 110.000000
+     Taxa de juros livre de risco: 10.000000
+     Volatividade da acao: 1.000000
+     Tempo de validade da opcao: 1.000000
+     Numero de interacoes: 100000.000000 
+     
+   --------------------------------------------------------------------
+   |                        Conteudo do Arquivo                       |
+     100.0
+     110.0
+     10.0
+     1.0
+     1.0
+     100000
+   --------------------------------------------------------------------
+
+   --------------------------------------------------------------------
+   |                     Simulacao de Monte Carlo                     |
+   |                     Modelo de Black Scholes                      |
+
+     Valor da acao: 100.000000
+     Preco de exercicio da apcao: 110.000000
+     Taxa de juros livre de risco: 10.000000
+     Volatividade da acao: 1.000000
+     Tempo de validade da opcao: 1.000000
+     Numero de interacoes: 100000.000000 
+     
+     Valor da acao (S): 	100.000000
+     Preco de exercicio da opcao (E): 	110.000000
+     Taxa de juros livre de risco (SELIC) (r): 	10.000000
+     Volatividade da acao (sigma): 	1.000000
+     Tempo de validade da opcao (T): 	1.000000
+     Numero de iteracoes (M): 	100000
+     Intervalo de confianca: (99.1780, 100.8223)
+
+   |------------------------------------------------------------------|
+
+real	0m0,025s
+user	0m0,027s
+sys	0m0,008s
+
+   --------------------------------------------------------------------
+   |                        Conteudo do Arquivo                       |
+     100.0
+     110.0
+     10.0
+     1.0
+     1.0
+     100000
+   --------------------------------------------------------------------
+
+   --------------------------------------------------------------------
+   |                     Simulacao de Monte Carlo                     |
+   |                     Modelo de Black Scholes                      |
+
+     Valor da acao: 100.000000
+     Preco de exercicio da apcao: 110.000000
+     Taxa de juros livre de risco: 10.000000
+     Volatividade da acao: 1.000000
+     Tempo de validade da opcao: 1.000000
+     Numero de interacoes: 100000.000000 
+     
+   --------------------------------------------------------------------
+   |                        Conteudo do Arquivo                       |
+     100.0
+     110.0
+     10.0
+     1.0
+     1.0
+     100000
+   --------------------------------------------------------------------
+
+   --------------------------------------------------------------------
+   |                     Simulacao de Monte Carlo                     |
+   |                     Modelo de Black Scholes                      |
+
+     Valor da acao: 100.000000
+     Preco de exercicio da apcao: 110.000000
+     Taxa de juros livre de risco: 10.000000
+     Volatividade da acao: 1.000000
+     Tempo de validade da opcao: 1.000000
+     Numero de interacoes: 100000.000000 
+     
+     Valor da acao (S): 	100.000000
+     Preco de exercicio da opcao (E): 	110.000000
+     Taxa de juros livre de risco (SELIC) (r): 	10.000000
+     Volatividade da acao (sigma): 	1.000000
+     Tempo de validade da opcao (T): 	1.000000
+     Numero de iteracoes (M): 	100000
+     Intervalo de confianca: (99.1143, 100.7549)
+
+   |------------------------------------------------------------------|
+
+real	0m0,018s
+user	0m0,023s
+sys	0m0,004s
+
+   --------------------------------------------------------------------
+   |                        Conteudo do Arquivo                       |
+     100.0
+     110.0
+     10.0
+     1.0
+     1.0
+     100000
+   --------------------------------------------------------------------
+
+   --------------------------------------------------------------------
+   |                     Simulacao de Monte Carlo                     |
+   |                     Modelo de Black Scholes                      |
+
+     Valor da acao: 100.000000
+     Preco de exercicio da apcao: 110.000000
+     Taxa de juros livre de risco: 10.000000
+     Volatividade da acao: 1.000000
+     Tempo de validade da opcao: 1.000000
+     Numero de interacoes: 100000.000000 
+     
+   --------------------------------------------------------------------
+   |                        Conteudo do Arquivo                       |
+     100.0
+     110.0
+     10.0
+     1.0
+     1.0
+     100000
+   --------------------------------------------------------------------
+
+   --------------------------------------------------------------------
+   |                     Simulacao de Monte Carlo                     |
+   |                     Modelo de Black Scholes                      |
+
+     Valor da acao: 100.000000
+     Preco de exercicio da apcao: 110.000000
+     Taxa de juros livre de risco: 10.000000
+     Volatividade da acao: 1.000000
+     Tempo de validade da opcao: 1.000000
+     Numero de interacoes: 100000.000000 
+     
+     Valor da acao (S): 	100.000000
+     Preco de exercicio da opcao (E): 	110.000000
+     Taxa de juros livre de risco (SELIC) (r): 	10.000000
+     Volatividade da acao (sigma): 	1.000000
+     Tempo de validade da opcao (T): 	1.000000
+     Numero de iteracoes (M): 	100000
+     Intervalo de confianca: (98.8353, 100.4949)
+
+   |------------------------------------------------------------------|
+
+real	0m0,019s
+user	0m0,027s
+sys	0m0,000s
+
+   --------------------------------------------------------------------
+   |                        Conteudo do Arquivo                       |
+     100.0
+     110.0
+     10.0
+     1.0
+     1.0
+     100000
+   --------------------------------------------------------------------
+
+   --------------------------------------------------------------------
+   |                     Simulacao de Monte Carlo                     |
+   |                     Modelo de Black Scholes                      |
+
+     Valor da acao: 100.000000
+     Preco de exercicio da apcao: 110.000000
+     Taxa de juros livre de risco: 10.000000
+     Volatividade da acao: 1.000000
+     Tempo de validade da opcao: 1.000000
+     Numero de interacoes: 100000.000000 
+     
+   --------------------------------------------------------------------
+   |                        Conteudo do Arquivo                       |
+     100.0
+     110.0
+     10.0
+     1.0
+     1.0
+     100000
+   --------------------------------------------------------------------
+
+   --------------------------------------------------------------------
+   |                     Simulacao de Monte Carlo                     |
+   |                     Modelo de Black Scholes                      |
+
+     Valor da acao: 100.000000
+     Preco de exercicio da apcao: 110.000000
+     Taxa de juros livre de risco: 10.000000
+     Volatividade da acao: 1.000000
+     Tempo de validade da opcao: 1.000000
+     Numero de interacoes: 100000.000000 
+     
+     Valor da acao (S): 	100.000000
+     Preco de exercicio da opcao (E): 	110.000000
+     Taxa de juros livre de risco (SELIC) (r): 	10.000000
+     Volatividade da acao (sigma): 	1.000000
+     Tempo de validade da opcao (T): 	1.000000
+     Numero de iteracoes (M): 	100000
+     Intervalo de confianca: (99.0204, 100.6519)
+
+   |------------------------------------------------------------------|
+
+real	0m0,021s
+user	0m0,030s
+sys	0m0,000s
+
+   --------------------------------------------------------------------
+   |                        Conteudo do Arquivo                       |
+     100.0
+     110.0
+     10.0
+     1.0
+     1.0
+     100000
+   --------------------------------------------------------------------
+
+   --------------------------------------------------------------------
+   |                     Simulacao de Monte Carlo                     |
+   |                     Modelo de Black Scholes                      |
+
+     Valor da acao: 100.000000
+     Preco de exercicio da apcao: 110.000000
+     Taxa de juros livre de risco: 10.000000
+     Volatividade da acao: 1.000000
+     Tempo de validade da opcao: 1.000000
+     Numero de interacoes: 100000.000000 
+     
+   --------------------------------------------------------------------
+   |                        Conteudo do Arquivo                       |
+     100.0
+     110.0
+     10.0
+     1.0
+     1.0
+     100000
+   --------------------------------------------------------------------
+
+   --------------------------------------------------------------------
+   |                     Simulacao de Monte Carlo                     |
+   |                     Modelo de Black Scholes                      |
+
+     Valor da acao: 100.000000
+     Preco de exercicio da apcao: 110.000000
+     Taxa de juros livre de risco: 10.000000
+     Volatividade da acao: 1.000000
+     Tempo de validade da opcao: 1.000000
+     Numero de interacoes: 100000.000000 
+     
+     Valor da acao (S): 	100.000000
+     Preco de exercicio da opcao (E): 	110.000000
+     Taxa de juros livre de risco (SELIC) (r): 	10.000000
+     Volatividade da acao (sigma): 	1.000000
+     Tempo de validade da opcao (T): 	1.000000
+     Numero de iteracoes (M): 	100000
+     Intervalo de confianca: (99.4981, 101.1242)
+
+   |------------------------------------------------------------------|
+
+real	0m0,022s
+user	0m0,026s
+sys	0m0,005s
+
+   --------------------------------------------------------------------
+   |                        Conteudo do Arquivo                       |
+     100.0
+     110.0
+     10.0
+     1.0
+     1.0
+     100000
+   --------------------------------------------------------------------
+
+   --------------------------------------------------------------------
+   |                     Simulacao de Monte Carlo                     |
+   |                     Modelo de Black Scholes                      |
+
+     Valor da acao: 100.000000
+     Preco de exercicio da apcao: 110.000000
+     Taxa de juros livre de risco: 10.000000
+     Volatividade da acao: 1.000000
+     Tempo de validade da opcao: 1.000000
+     Numero de interacoes: 100000.000000 
+     
+   --------------------------------------------------------------------
+   |                        Conteudo do Arquivo                       |
+     100.0
+     110.0
+     10.0
+     1.0
+     1.0
+     100000
+   --------------------------------------------------------------------
+
+   --------------------------------------------------------------------
+   |                     Simulacao de Monte Carlo                     |
+   |                     Modelo de Black Scholes                      |
+
+     Valor da acao: 100.000000
+     Preco de exercicio da apcao: 110.000000
+     Taxa de juros livre de risco: 10.000000
+     Volatividade da acao: 1.000000
+     Tempo de validade da opcao: 1.000000
+     Numero de interacoes: 100000.000000 
+     
+     Valor da acao (S): 	100.000000
+     Preco de exercicio da opcao (E): 	110.000000
+     Taxa de juros livre de risco (SELIC) (r): 	10.000000
+     Volatividade da acao (sigma): 	1.000000
+     Tempo de validade da opcao (T): 	1.000000
+     Numero de iteracoes (M): 	100000
+     Intervalo de confianca: (99.0387, 100.6828)
+
+   |------------------------------------------------------------------|
+
+real	0m0,015s
+user	0m0,023s
+sys	0m0,000s
+
+   --------------------------------------------------------------------
+   |                        Conteudo do Arquivo                       |
+     100.0
+     110.0
+     10.0
+     1.0
+     1.0
+     100000
+   --------------------------------------------------------------------
+
+   --------------------------------------------------------------------
+   |                     Simulacao de Monte Carlo                     |
+   |                     Modelo de Black Scholes                      |
+
+     Valor da acao: 100.000000
+     Preco de exercicio da apcao: 110.000000
+     Taxa de juros livre de risco: 10.000000
+     Volatividade da acao: 1.000000
+     Tempo de validade da opcao: 1.000000
+     Numero de interacoes: 100000.000000 
+     
+   --------------------------------------------------------------------
+   |                        Conteudo do Arquivo                       |
+     100.0
+     110.0
+     10.0
+     1.0
+     1.0
+     100000
+   --------------------------------------------------------------------
+
+   --------------------------------------------------------------------
+   |                     Simulacao de Monte Carlo                     |
+   |                     Modelo de Black Scholes                      |
+
+     Valor da acao: 100.000000
+     Preco de exercicio da apcao: 110.000000
+     Taxa de juros livre de risco: 10.000000
+     Volatividade da acao: 1.000000
+     Tempo de validade da opcao: 1.000000
+     Numero de interacoes: 100000.000000 
+     
+     Valor da acao (S): 	100.000000
+     Preco de exercicio da opcao (E): 	110.000000
+     Taxa de juros livre de risco (SELIC) (r): 	10.000000
+     Volatividade da acao (sigma): 	1.000000
+     Tempo de validade da opcao (T): 	1.000000
+     Numero de iteracoes (M): 	100000
+     Intervalo de confianca: (98.9787, 100.5947)
+
+   |------------------------------------------------------------------|
+
+real	0m0,021s
+user	0m0,030s
+sys	0m0,000s
+
+   --------------------------------------------------------------------
+   |                        Conteudo do Arquivo                       |
+     100.0
+     110.0
+     10.0
+     1.0
+     1.0
+     100000
+   --------------------------------------------------------------------
+
+   --------------------------------------------------------------------
+   |                     Simulacao de Monte Carlo                     |
+   |                     Modelo de Black Scholes                      |
+
+     Valor da acao: 100.000000
+     Preco de exercicio da apcao: 110.000000
+     Taxa de juros livre de risco: 10.000000
+     Volatividade da acao: 1.000000
+     Tempo de validade da opcao: 1.000000
+     Numero de interacoes: 100000.000000 
+     
+   --------------------------------------------------------------------
+   |                        Conteudo do Arquivo                       |
+     100.0
+     110.0
+     10.0
+     1.0
+     1.0
+     100000
+   --------------------------------------------------------------------
+
+   --------------------------------------------------------------------
+   |                     Simulacao de Monte Carlo                     |
+   |                     Modelo de Black Scholes                      |
+
+     Valor da acao: 100.000000
+     Preco de exercicio da apcao: 110.000000
+     Taxa de juros livre de risco: 10.000000
+     Volatividade da acao: 1.000000
+     Tempo de validade da opcao: 1.000000
+     Numero de interacoes: 100000.000000 
+     
+     Valor da acao (S): 	100.000000
+     Preco de exercicio da opcao (E): 	110.000000
+     Taxa de juros livre de risco (SELIC) (r): 	10.000000
+     Volatividade da acao (sigma): 	1.000000
+     Tempo de validade da opcao (T): 	1.000000
+     Numero de iteracoes (M): 	100000
+     Intervalo de confianca: (99.3936, 101.0573)
+
+   |------------------------------------------------------------------|
+
+real	0m0,019s
+user	0m0,021s
+sys	0m0,007s
+
+   --------------------------------------------------------------------
+   |                        Conteudo do Arquivo                       |
+     100.0
+     110.0
+     10.0
+     1.0
+     1.0
+     100000
+   --------------------------------------------------------------------
+
+   --------------------------------------------------------------------
+   |                     Simulacao de Monte Carlo                     |
+   |                     Modelo de Black Scholes                      |
+
+     Valor da acao: 100.000000
+     Preco de exercicio da apcao: 110.000000
+     Taxa de juros livre de risco: 10.000000
+     Volatividade da acao: 1.000000
+     Tempo de validade da opcao: 1.000000
+     Numero de interacoes: 100000.000000 
+     
+   --------------------------------------------------------------------
+   |                        Conteudo do Arquivo                       |
+     100.0
+     110.0
+     10.0
+     1.0
+     1.0
+     100000
+   --------------------------------------------------------------------
+
+   --------------------------------------------------------------------
+   |                     Simulacao de Monte Carlo                     |
+   |                     Modelo de Black Scholes                      |
+
+     Valor da acao: 100.000000
+     Preco de exercicio da apcao: 110.000000
+     Taxa de juros livre de risco: 10.000000
+     Volatividade da acao: 1.000000
+     Tempo de validade da opcao: 1.000000
+     Numero de interacoes: 100000.000000 
+     
+     Valor da acao (S): 	100.000000
+     Preco de exercicio da opcao (E): 	110.000000
+     Taxa de juros livre de risco (SELIC) (r): 	10.000000
+     Volatividade da acao (sigma): 	1.000000
+     Tempo de validade da opcao (T): 	1.000000
+     Numero de iteracoes (M): 	100000
+     Intervalo de confianca: (99.3395, 100.9863)
+
+   |------------------------------------------------------------------|
+
+real	0m0,016s
+user	0m0,016s
+sys	0m0,008s
+
+   --------------------------------------------------------------------
+   |                        Conteudo do Arquivo                       |
+     100.0
+     110.0
+     10.0
+     1.0
+     1.0
+     100000
+   --------------------------------------------------------------------
+
+   --------------------------------------------------------------------
+   |                     Simulacao de Monte Carlo                     |
+   |                     Modelo de Black Scholes                      |
+
+     Valor da acao: 100.000000
+     Preco de exercicio da apcao: 110.000000
+     Taxa de juros livre de risco: 10.000000
+     Volatividade da acao: 1.000000
+     Tempo de validade da opcao: 1.000000
+     Numero de interacoes: 100000.000000 
+     
+   --------------------------------------------------------------------
+   |                        Conteudo do Arquivo                       |
+     100.0
+     110.0
+     10.0
+     1.0
+     1.0
+     100000
+   --------------------------------------------------------------------
+
+   --------------------------------------------------------------------
+   |                     Simulacao de Monte Carlo                     |
+   |                     Modelo de Black Scholes                      |
+
+     Valor da acao: 100.000000
+     Preco de exercicio da apcao: 110.000000
+     Taxa de juros livre de risco: 10.000000
+     Volatividade da acao: 1.000000
+     Tempo de validade da opcao: 1.000000
+     Numero de interacoes: 100000.000000 
+     
+     Valor da acao (S): 	100.000000
+     Preco de exercicio da opcao (E): 	110.000000
+     Taxa de juros livre de risco (SELIC) (r): 	10.000000
+     Volatividade da acao (sigma): 	1.000000
+     Tempo de validade da opcao (T): 	1.000000
+     Numero de iteracoes (M): 	100000
+     Intervalo de confianca: (99.5813, 101.2261)
+
+   |------------------------------------------------------------------|
+
+real	0m0,021s
+user	0m0,029s
+sys	0m0,000s
+
+   --------------------------------------------------------------------
+   |                        Conteudo do Arquivo                       |
+     100.0
+     110.0
+     10.0
+     1.0
+     1.0
+     100000
+   --------------------------------------------------------------------
+
+   --------------------------------------------------------------------
+   |                     Simulacao de Monte Carlo                     |
+   |                     Modelo de Black Scholes                      |
+
+     Valor da acao: 100.000000
+     Preco de exercicio da apcao: 110.000000
+     Taxa de juros livre de risco: 10.000000
+     Volatividade da acao: 1.000000
+     Tempo de validade da opcao: 1.000000
+     Numero de interacoes: 100000.000000 
+     
+   --------------------------------------------------------------------
+   |                        Conteudo do Arquivo                       |
+     100.0
+     110.0
+     10.0
+     1.0
+     1.0
+     100000
+   --------------------------------------------------------------------
+
+   --------------------------------------------------------------------
+   |                     Simulacao de Monte Carlo                     |
+   |                     Modelo de Black Scholes                      |
+
+     Valor da acao: 100.000000
+     Preco de exercicio da apcao: 110.000000
+     Taxa de juros livre de risco: 10.000000
+     Volatividade da acao: 1.000000
+     Tempo de validade da opcao: 1.000000
+     Numero de interacoes: 100000.000000 
+     
+     Valor da acao (S): 	100.000000
+     Preco de exercicio da opcao (E): 	110.000000
+     Taxa de juros livre de risco (SELIC) (r): 	10.000000
+     Volatividade da acao (sigma): 	1.000000
+     Tempo de validade da opcao (T): 	1.000000
+     Numero de iteracoes (M): 	100000
+     Intervalo de confianca: (99.4053, 101.0496)
+
+   |------------------------------------------------------------------|
+
+real	0m0,019s
+user	0m0,028s
+sys	0m0,000s
+
+   --------------------------------------------------------------------
+   |                        Conteudo do Arquivo                       |
+     100.0
+     110.0
+     10.0
+     1.0
+     1.0
+     100000
+   --------------------------------------------------------------------
+
+   --------------------------------------------------------------------
+   |                     Simulacao de Monte Carlo                     |
+   |                     Modelo de Black Scholes                      |
+
+     Valor da acao: 100.000000
+     Preco de exercicio da apcao: 110.000000
+     Taxa de juros livre de risco: 10.000000
+     Volatividade da acao: 1.000000
+     Tempo de validade da opcao: 1.000000
+     Numero de interacoes: 100000.000000 
+     
+   --------------------------------------------------------------------
+   |                        Conteudo do Arquivo                       |
+     100.0
+     110.0
+     10.0
+     1.0
+     1.0
+     100000
+   --------------------------------------------------------------------
+
+   --------------------------------------------------------------------
+   |                     Simulacao de Monte Carlo                     |
+   |                     Modelo de Black Scholes                      |
+
+     Valor da acao: 100.000000
+     Preco de exercicio da apcao: 110.000000
+     Taxa de juros livre de risco: 10.000000
+     Volatividade da acao: 1.000000
+     Tempo de validade da opcao: 1.000000
+     Numero de interacoes: 100000.000000 
+     
+     Valor da acao (S): 	100.000000
+     Preco de exercicio da opcao (E): 	110.000000
+     Taxa de juros livre de risco (SELIC) (r): 	10.000000
+     Volatividade da acao (sigma): 	1.000000
+     Tempo de validade da opcao (T): 	1.000000
+     Numero de iteracoes (M): 	100000
+     Intervalo de confianca: (99.7561, 101.3698)
+
+   |------------------------------------------------------------------|
+
+real	0m0,021s
+user	0m0,022s
+sys	0m0,004s
+
+   --------------------------------------------------------------------
+   |                        Conteudo do Arquivo                       |
+     100.0
+     110.0
+     10.0
+     1.0
+     1.0
+     100000
+   --------------------------------------------------------------------
+
+   --------------------------------------------------------------------
+   |                     Simulacao de Monte Carlo                     |
+   |                     Modelo de Black Scholes                      |
+
+     Valor da acao: 100.000000
+     Preco de exercicio da apcao: 110.000000
+     Taxa de juros livre de risco: 10.000000
+     Volatividade da acao: 1.000000
+     Tempo de validade da opcao: 1.000000
+     Numero de interacoes: 100000.000000 
+     
+   --------------------------------------------------------------------
+   |                        Conteudo do Arquivo                       |
+     100.0
+     110.0
+     10.0
+     1.0
+     1.0
+     100000
+   --------------------------------------------------------------------
+
+   --------------------------------------------------------------------
+   |                     Simulacao de Monte Carlo                     |
+   |                     Modelo de Black Scholes                      |
+
+     Valor da acao: 100.000000
+     Preco de exercicio da apcao: 110.000000
+     Taxa de juros livre de risco: 10.000000
+     Volatividade da acao: 1.000000
+     Tempo de validade da opcao: 1.000000
+     Numero de interacoes: 100000.000000 
+     
+     Valor da acao (S): 	100.000000
+     Preco de exercicio da opcao (E): 	110.000000
+     Taxa de juros livre de risco (SELIC) (r): 	10.000000
+     Volatividade da acao (sigma): 	1.000000
+     Tempo de validade da opcao (T): 	1.000000
+     Numero de iteracoes (M): 	100000
+     Intervalo de confianca: (99.2459, 100.9106)
+
+   |------------------------------------------------------------------|
+
+real	0m0,021s
+user	0m0,032s
+sys	0m0,000s
+
+   --------------------------------------------------------------------
+   |                        Conteudo do Arquivo                       |
+     100.0
+     110.0
+     10.0
+     1.0
+     1.0
+     100000
+   --------------------------------------------------------------------
+
+   --------------------------------------------------------------------
+   |                     Simulacao de Monte Carlo                     |
+   |                     Modelo de Black Scholes                      |
+
+     Valor da acao: 100.000000
+     Preco de exercicio da apcao: 110.000000
+     Taxa de juros livre de risco: 10.000000
+     Volatividade da acao: 1.000000
+     Tempo de validade da opcao: 1.000000
+     Numero de interacoes: 100000.000000 
+     
+   --------------------------------------------------------------------
+   |                        Conteudo do Arquivo                       |
+     100.0
+     110.0
+     10.0
+     1.0
+     1.0
+     100000
+   --------------------------------------------------------------------
+
+   --------------------------------------------------------------------
+   |                     Simulacao de Monte Carlo                     |
+   |                     Modelo de Black Scholes                      |
+
+     Valor da acao: 100.000000
+     Preco de exercicio da apcao: 110.000000
+     Taxa de juros livre de risco: 10.000000
+     Volatividade da acao: 1.000000
+     Tempo de validade da opcao: 1.000000
+     Numero de interacoes: 100000.000000 
+     
+     Valor da acao (S): 	100.000000
+     Preco de exercicio da opcao (E): 	110.000000
+     Taxa de juros livre de risco (SELIC) (r): 	10.000000
+     Volatividade da acao (sigma): 	1.000000
+     Tempo de validade da opcao (T): 	1.000000
+     Numero de iteracoes (M): 	100000
+     Intervalo de confianca: (98.5739, 100.1453)
+
+   |------------------------------------------------------------------|
+
+real	0m0,023s
+user	0m0,034s
+sys	0m0,001s
+
+   --------------------------------------------------------------------
+   |                        Conteudo do Arquivo                       |
+     100.0
+     110.0
+     10.0
+     1.0
+     1.0
+     100000
+   --------------------------------------------------------------------
+
+   --------------------------------------------------------------------
+   |                     Simulacao de Monte Carlo                     |
+   |                     Modelo de Black Scholes                      |
+
+     Valor da acao: 100.000000
+     Preco de exercicio da apcao: 110.000000
+     Taxa de juros livre de risco: 10.000000
+     Volatividade da acao: 1.000000
+     Tempo de validade da opcao: 1.000000
+     Numero de interacoes: 100000.000000 
+     
+   --------------------------------------------------------------------
+   |                        Conteudo do Arquivo                       |
+     100.0
+     110.0
+     10.0
+     1.0
+     1.0
+     100000
+   --------------------------------------------------------------------
+
+   --------------------------------------------------------------------
+   |                     Simulacao de Monte Carlo                     |
+   |                     Modelo de Black Scholes                      |
+
+     Valor da acao: 100.000000
+     Preco de exercicio da apcao: 110.000000
+     Taxa de juros livre de risco: 10.000000
+     Volatividade da acao: 1.000000
+     Tempo de validade da opcao: 1.000000
+     Numero de interacoes: 100000.000000 
+     
+     Valor da acao (S): 	100.000000
+     Preco de exercicio da opcao (E): 	110.000000
+     Taxa de juros livre de risco (SELIC) (r): 	10.000000
+     Volatividade da acao (sigma): 	1.000000
+     Tempo de validade da opcao (T): 	1.000000
+     Numero de iteracoes (M): 	100000
+     Intervalo de confianca: (98.7294, 100.3581)
+
+   |------------------------------------------------------------------|
+
+real	0m0,019s
+user	0m0,022s
+sys	0m0,005s
+
+   --------------------------------------------------------------------
+   |                        Conteudo do Arquivo                       |
+     100.0
+     110.0
+     10.0
+     1.0
+     1.0
+     100000
+   --------------------------------------------------------------------
+
+   --------------------------------------------------------------------
+   |                     Simulacao de Monte Carlo                     |
+   |                     Modelo de Black Scholes                      |
+
+     Valor da acao: 100.000000
+     Preco de exercicio da apcao: 110.000000
+     Taxa de juros livre de risco: 10.000000
+     Volatividade da acao: 1.000000
+     Tempo de validade da opcao: 1.000000
+     Numero de interacoes: 100000.000000 
+     
+   --------------------------------------------------------------------
+   |                        Conteudo do Arquivo                       |
+     100.0
+     110.0
+     10.0
+     1.0
+     1.0
+     100000
+   --------------------------------------------------------------------
+
+   --------------------------------------------------------------------
+   |                     Simulacao de Monte Carlo                     |
+   |                     Modelo de Black Scholes                      |
+
+     Valor da acao: 100.000000
+     Preco de exercicio da apcao: 110.000000
+     Taxa de juros livre de risco: 10.000000
+     Volatividade da acao: 1.000000
+     Tempo de validade da opcao: 1.000000
+     Numero de interacoes: 100000.000000 
+     
+     Valor da acao (S): 	100.000000
+     Preco de exercicio da opcao (E): 	110.000000
+     Taxa de juros livre de risco (SELIC) (r): 	10.000000
+     Volatividade da acao (sigma): 	1.000000
+     Tempo de validade da opcao (T): 	1.000000
+     Numero de iteracoes (M): 	100000
+     Intervalo de confianca: (99.0801, 100.7172)
+
+   |------------------------------------------------------------------|
+
+real	0m0,016s
+user	0m0,021s
+sys	0m0,004s
+
+   --------------------------------------------------------------------
+   |                        Conteudo do Arquivo                       |
+     100.0
+     110.0
+     10.0
+     1.0
+     1.0
+     100000
+   --------------------------------------------------------------------
+
+   --------------------------------------------------------------------
+   |                     Simulacao de Monte Carlo                     |
+   |                     Modelo de Black Scholes                      |
+
+     Valor da acao: 100.000000
+     Preco de exercicio da apcao: 110.000000
+     Taxa de juros livre de risco: 10.000000
+     Volatividade da acao: 1.000000
+     Tempo de validade da opcao: 1.000000
+     Numero de interacoes: 100000.000000 
+     
+   --------------------------------------------------------------------
+   |                        Conteudo do Arquivo                       |
+     100.0
+     110.0
+     10.0
+     1.0
+     1.0
+     100000
+   --------------------------------------------------------------------
+
+   --------------------------------------------------------------------
+   |                     Simulacao de Monte Carlo                     |
+   |                     Modelo de Black Scholes                      |
+
+     Valor da acao: 100.000000
+     Preco de exercicio da apcao: 110.000000
+     Taxa de juros livre de risco: 10.000000
+     Volatividade da acao: 1.000000
+     Tempo de validade da opcao: 1.000000
+     Numero de interacoes: 100000.000000 
+     
+     Valor da acao (S): 	100.000000
+     Preco de exercicio da opcao (E): 	110.000000
+     Taxa de juros livre de risco (SELIC) (r): 	10.000000
+     Volatividade da acao (sigma): 	1.000000
+     Tempo de validade da opcao (T): 	1.000000
+     Numero de iteracoes (M): 	100000
+     Intervalo de confianca: (98.2857, 99.8850)
+
+   |------------------------------------------------------------------|
+
+real	0m0,017s
+user	0m0,018s
+sys	0m0,007s
+
+   --------------------------------------------------------------------
+   |                        Conteudo do Arquivo                       |
+     100.0
+     110.0
+     10.0
+     1.0
+     1.0
+     100000
+   --------------------------------------------------------------------
+
+   --------------------------------------------------------------------
+   |                     Simulacao de Monte Carlo                     |
+   |                     Modelo de Black Scholes                      |
+
+     Valor da acao: 100.000000
+     Preco de exercicio da apcao: 110.000000
+     Taxa de juros livre de risco: 10.000000
+     Volatividade da acao: 1.000000
+     Tempo de validade da opcao: 1.000000
+     Numero de interacoes: 100000.000000 
+     
+   --------------------------------------------------------------------
+   |                        Conteudo do Arquivo                       |
+     100.0
+     110.0
+     10.0
+     1.0
+     1.0
+     100000
+   --------------------------------------------------------------------
+
+   --------------------------------------------------------------------
+   |                     Simulacao de Monte Carlo                     |
+   |                     Modelo de Black Scholes                      |
+
+     Valor da acao: 100.000000
+     Preco de exercicio da apcao: 110.000000
+     Taxa de juros livre de risco: 10.000000
+     Volatividade da acao: 1.000000
+     Tempo de validade da opcao: 1.000000
+     Numero de interacoes: 100000.000000 
+     
+     Valor da acao (S): 	100.000000
+     Preco de exercicio da opcao (E): 	110.000000
+     Taxa de juros livre de risco (SELIC) (r): 	10.000000
+     Volatividade da acao (sigma): 	1.000000
+     Tempo de validade da opcao (T): 	1.000000
+     Numero de iteracoes (M): 	100000
+     Intervalo de confianca: (99.5886, 101.2266)
+
+   |------------------------------------------------------------------|
+
+real	0m0,020s
+user	0m0,030s
+sys	0m0,000s
+
+   --------------------------------------------------------------------
+   |                        Conteudo do Arquivo                       |
+     100.0
+     110.0
+     10.0
+     1.0
+     1.0
+     100000
+   --------------------------------------------------------------------
+
+   --------------------------------------------------------------------
+   |                     Simulacao de Monte Carlo                     |
+   |                     Modelo de Black Scholes                      |
+
+     Valor da acao: 100.000000
+     Preco de exercicio da apcao: 110.000000
+     Taxa de juros livre de risco: 10.000000
+     Volatividade da acao: 1.000000
+     Tempo de validade da opcao: 1.000000
+     Numero de interacoes: 100000.000000 
+     
+   --------------------------------------------------------------------
+   |                        Conteudo do Arquivo                       |
+     100.0
+     110.0
+     10.0
+     1.0
+     1.0
+     100000
+   --------------------------------------------------------------------
+
+   --------------------------------------------------------------------
+   |                     Simulacao de Monte Carlo                     |
+   |                     Modelo de Black Scholes                      |
+
+     Valor da acao: 100.000000
+     Preco de exercicio da apcao: 110.000000
+     Taxa de juros livre de risco: 10.000000
+     Volatividade da acao: 1.000000
+     Tempo de validade da opcao: 1.000000
+     Numero de interacoes: 100000.000000 
+     
+     Valor da acao (S): 	100.000000
+     Preco de exercicio da opcao (E): 	110.000000
+     Taxa de juros livre de risco (SELIC) (r): 	10.000000
+     Volatividade da acao (sigma): 	1.000000
+     Tempo de validade da opcao (T): 	1.000000
+     Numero de iteracoes (M): 	100000
+     Intervalo de confianca: (98.6097, 100.2164)
+
+   |------------------------------------------------------------------|
+
+real	0m0,019s
+user	0m0,025s
+sys	0m0,005s
+
+   --------------------------------------------------------------------
+   |                        Conteudo do Arquivo                       |
+     100.0
+     110.0
+     10.0
+     1.0
+     1.0
+     100000
+   --------------------------------------------------------------------
+
+   --------------------------------------------------------------------
+   |                     Simulacao de Monte Carlo                     |
+   |                     Modelo de Black Scholes                      |
+
+     Valor da acao: 100.000000
+     Preco de exercicio da apcao: 110.000000
+     Taxa de juros livre de risco: 10.000000
+     Volatividade da acao: 1.000000
+     Tempo de validade da opcao: 1.000000
+     Numero de interacoes: 100000.000000 
+     
+   --------------------------------------------------------------------
+   |                        Conteudo do Arquivo                       |
+     100.0
+     110.0
+     10.0
+     1.0
+     1.0
+     100000
+   --------------------------------------------------------------------
+
+   --------------------------------------------------------------------
+   |                     Simulacao de Monte Carlo                     |
+   |                     Modelo de Black Scholes                      |
+
+     Valor da acao: 100.000000
+     Preco de exercicio da apcao: 110.000000
+     Taxa de juros livre de risco: 10.000000
+     Volatividade da acao: 1.000000
+     Tempo de validade da opcao: 1.000000
+     Numero de interacoes: 100000.000000 
+     
+     Valor da acao (S): 	100.000000
+     Preco de exercicio da opcao (E): 	110.000000
+     Taxa de juros livre de risco (SELIC) (r): 	10.000000
+     Volatividade da acao (sigma): 	1.000000
+     Tempo de validade da opcao (T): 	1.000000
+     Numero de iteracoes (M): 	100000
+     Intervalo de confianca: (99.2924, 100.9638)
+
+   |------------------------------------------------------------------|
+
+real	0m0,017s
+user	0m0,025s
+sys	0m0,000s
+
+   --------------------------------------------------------------------
+   |                        Conteudo do Arquivo                       |
+     100.0
+     110.0
+     10.0
+     1.0
+     1.0
+     100000
+   --------------------------------------------------------------------
+
+   --------------------------------------------------------------------
+   |                     Simulacao de Monte Carlo                     |
+   |                     Modelo de Black Scholes                      |
+
+     Valor da acao: 100.000000
+     Preco de exercicio da apcao: 110.000000
+     Taxa de juros livre de risco: 10.000000
+     Volatividade da acao: 1.000000
+     Tempo de validade da opcao: 1.000000
+     Numero de interacoes: 100000.000000 
+     
+   --------------------------------------------------------------------
+   |                        Conteudo do Arquivo                       |
+     100.0
+     110.0
+     10.0
+     1.0
+     1.0
+     100000
+   --------------------------------------------------------------------
+
+   --------------------------------------------------------------------
+   |                     Simulacao de Monte Carlo                     |
+   |                     Modelo de Black Scholes                      |
+
+     Valor da acao: 100.000000
+     Preco de exercicio da apcao: 110.000000
+     Taxa de juros livre de risco: 10.000000
+     Volatividade da acao: 1.000000
+     Tempo de validade da opcao: 1.000000
+     Numero de interacoes: 100000.000000 
+     
+     Valor da acao (S): 	100.000000
+     Preco de exercicio da opcao (E): 	110.000000
+     Taxa de juros livre de risco (SELIC) (r): 	10.000000
+     Volatividade da acao (sigma): 	1.000000
+     Tempo de validade da opcao (T): 	1.000000
+     Numero de iteracoes (M): 	100000
+     Intervalo de confianca: (99.2977, 100.9049)
+
+   |------------------------------------------------------------------|
+
+real	0m0,019s
+user	0m0,028s
+sys	0m0,000s
+
+   --------------------------------------------------------------------
+   |                        Conteudo do Arquivo                       |
+     100.0
+     110.0
+     10.0
+     1.0
+     1.0
+     100000
+   --------------------------------------------------------------------
+
+   --------------------------------------------------------------------
+   |                     Simulacao de Monte Carlo                     |
+   |                     Modelo de Black Scholes                      |
+
+     Valor da acao: 100.000000
+     Preco de exercicio da apcao: 110.000000
+     Taxa de juros livre de risco: 10.000000
+     Volatividade da acao: 1.000000
+     Tempo de validade da opcao: 1.000000
+     Numero de interacoes: 100000.000000 
+     
+   --------------------------------------------------------------------
+   |                        Conteudo do Arquivo                       |
+     100.0
+     110.0
+     10.0
+     1.0
+     1.0
+     100000
+   --------------------------------------------------------------------
+
+   --------------------------------------------------------------------
+   |                     Simulacao de Monte Carlo                     |
+   |                     Modelo de Black Scholes                      |
+
+     Valor da acao: 100.000000
+     Preco de exercicio da apcao: 110.000000
+     Taxa de juros livre de risco: 10.000000
+     Volatividade da acao: 1.000000
+     Tempo de validade da opcao: 1.000000
+     Numero de interacoes: 100000.000000 
+     
+     Valor da acao (S): 	100.000000
+     Preco de exercicio da opcao (E): 	110.000000
+     Taxa de juros livre de risco (SELIC) (r): 	10.000000
+     Volatividade da acao (sigma): 	1.000000
+     Tempo de validade da opcao (T): 	1.000000
+     Numero de iteracoes (M): 	100000
+     Intervalo de confianca: (99.8409, 101.4629)
+
+   |------------------------------------------------------------------|
+
+real	0m0,017s
+user	0m0,024s
+sys	0m0,000s
+
+   --------------------------------------------------------------------
+   |                        Conteudo do Arquivo                       |
+     100.0
+     110.0
+     10.0
+     1.0
+     1.0
+     100000
+   --------------------------------------------------------------------
+
+   --------------------------------------------------------------------
+   |                     Simulacao de Monte Carlo                     |
+   |                     Modelo de Black Scholes                      |
+
+     Valor da acao: 100.000000
+     Preco de exercicio da apcao: 110.000000
+     Taxa de juros livre de risco: 10.000000
+     Volatividade da acao: 1.000000
+     Tempo de validade da opcao: 1.000000
+     Numero de interacoes: 100000.000000 
+     
+   --------------------------------------------------------------------
+   |                        Conteudo do Arquivo                       |
+     100.0
+     110.0
+     10.0
+     1.0
+     1.0
+     100000
+   --------------------------------------------------------------------
+
+   --------------------------------------------------------------------
+   |                     Simulacao de Monte Carlo                     |
+   |                     Modelo de Black Scholes                      |
+
+     Valor da acao: 100.000000
+     Preco de exercicio da apcao: 110.000000
+     Taxa de juros livre de risco: 10.000000
+     Volatividade da acao: 1.000000
+     Tempo de validade da opcao: 1.000000
+     Numero de interacoes: 100000.000000 
+     
+     Valor da acao (S): 	100.000000
+     Preco de exercicio da opcao (E): 	110.000000
+     Taxa de juros livre de risco (SELIC) (r): 	10.000000
+     Volatividade da acao (sigma): 	1.000000
+     Tempo de validade da opcao (T): 	1.000000
+     Numero de iteracoes (M): 	100000
+     Intervalo de confianca: (98.8638, 100.4499)
+
+   |------------------------------------------------------------------|
+
+real	0m0,020s
+user	0m0,026s
+sys	0m0,004s
+
+   --------------------------------------------------------------------
+   |                        Conteudo do Arquivo                       |
+     100.0
+     110.0
+     10.0
+     1.0
+     1.0
+     100000
+   --------------------------------------------------------------------
+
+   --------------------------------------------------------------------
+   |                     Simulacao de Monte Carlo                     |
+   |                     Modelo de Black Scholes                      |
+
+     Valor da acao: 100.000000
+     Preco de exercicio da apcao: 110.000000
+     Taxa de juros livre de risco: 10.000000
+     Volatividade da acao: 1.000000
+     Tempo de validade da opcao: 1.000000
+     Numero de interacoes: 100000.000000 
+     
+   --------------------------------------------------------------------
+   |                        Conteudo do Arquivo                       |
+     100.0
+     110.0
+     10.0
+     1.0
+     1.0
+     100000
+   --------------------------------------------------------------------
+
+   --------------------------------------------------------------------
+   |                     Simulacao de Monte Carlo                     |
+   |                     Modelo de Black Scholes                      |
+
+     Valor da acao: 100.000000
+     Preco de exercicio da apcao: 110.000000
+     Taxa de juros livre de risco: 10.000000
+     Volatividade da acao: 1.000000
+     Tempo de validade da opcao: 1.000000
+     Numero de interacoes: 100000.000000 
+     
+     Valor da acao (S): 	100.000000
+     Preco de exercicio da opcao (E): 	110.000000
+     Taxa de juros livre de risco (SELIC) (r): 	10.000000
+     Volatividade da acao (sigma): 	1.000000
+     Tempo de validade da opcao (T): 	1.000000
+     Numero de iteracoes (M): 	100000
+     Intervalo de confianca: (98.6765, 100.3124)
+
+   |------------------------------------------------------------------|
+
+real	0m0,022s
+user	0m0,031s
+sys	0m0,000s
+
+   --------------------------------------------------------------------
+   |                        Conteudo do Arquivo                       |
+     100.0
+     110.0
+     10.0
+     1.0
+     1.0
+     100000
+   --------------------------------------------------------------------
+
+   --------------------------------------------------------------------
+   |                     Simulacao de Monte Carlo                     |
+   |                     Modelo de Black Scholes                      |
+
+     Valor da acao: 100.000000
+     Preco de exercicio da apcao: 110.000000
+     Taxa de juros livre de risco: 10.000000
+     Volatividade da acao: 1.000000
+     Tempo de validade da opcao: 1.000000
+     Numero de interacoes: 100000.000000 
+     
+   --------------------------------------------------------------------
+   |                        Conteudo do Arquivo                       |
+     100.0
+     110.0
+     10.0
+     1.0
+     1.0
+     100000
+   --------------------------------------------------------------------
+
+   --------------------------------------------------------------------
+   |                     Simulacao de Monte Carlo                     |
+   |                     Modelo de Black Scholes                      |
+
+     Valor da acao: 100.000000
+     Preco de exercicio da apcao: 110.000000
+     Taxa de juros livre de risco: 10.000000
+     Volatividade da acao: 1.000000
+     Tempo de validade da opcao: 1.000000
+     Numero de interacoes: 100000.000000 
+     
+     Valor da acao (S): 	100.000000
+     Preco de exercicio da opcao (E): 	110.000000
+     Taxa de juros livre de risco (SELIC) (r): 	10.000000
+     Volatividade da acao (sigma): 	1.000000
+     Tempo de validade da opcao (T): 	1.000000
+     Numero de iteracoes (M): 	100000
+     Intervalo de confianca: (99.2799, 100.8821)
+
+   |------------------------------------------------------------------|
+
+real	0m0,021s
+user	0m0,027s
+sys	0m0,004s
+
+   --------------------------------------------------------------------
+   |                        Conteudo do Arquivo                       |
+     100.0
+     110.0
+     10.0
+     1.0
+     1.0
+     100000
+   --------------------------------------------------------------------
+
+   --------------------------------------------------------------------
+   |                     Simulacao de Monte Carlo                     |
+   |                     Modelo de Black Scholes                      |
+
+     Valor da acao: 100.000000
+     Preco de exercicio da apcao: 110.000000
+     Taxa de juros livre de risco: 10.000000
+     Volatividade da acao: 1.000000
+     Tempo de validade da opcao: 1.000000
+     Numero de interacoes: 100000.000000 
+     
+   --------------------------------------------------------------------
+   |                        Conteudo do Arquivo                       |
+     100.0
+     110.0
+     10.0
+     1.0
+     1.0
+     100000
+   --------------------------------------------------------------------
+
+   --------------------------------------------------------------------
+   |                     Simulacao de Monte Carlo                     |
+   |                     Modelo de Black Scholes                      |
+
+     Valor da acao: 100.000000
+     Preco de exercicio da apcao: 110.000000
+     Taxa de juros livre de risco: 10.000000
+     Volatividade da acao: 1.000000
+     Tempo de validade da opcao: 1.000000
+     Numero de interacoes: 100000.000000 
+     
+     Valor da acao (S): 	100.000000
+     Preco de exercicio da opcao (E): 	110.000000
+     Taxa de juros livre de risco (SELIC) (r): 	10.000000
+     Volatividade da acao (sigma): 	1.000000
+     Tempo de validade da opcao (T): 	1.000000
+     Numero de iteracoes (M): 	100000
+     Intervalo de confianca: (98.5787, 100.2130)
+
+   |------------------------------------------------------------------|
+
+real	0m0,023s
+user	0m0,029s
+sys	0m0,004s
+
+   --------------------------------------------------------------------
+   |                        Conteudo do Arquivo                       |
+     100.0
+     110.0
+     10.0
+     1.0
+     1.0
+     100000
+   --------------------------------------------------------------------
+
+   --------------------------------------------------------------------
+   |                     Simulacao de Monte Carlo                     |
+   |                     Modelo de Black Scholes                      |
+
+     Valor da acao: 100.000000
+     Preco de exercicio da apcao: 110.000000
+     Taxa de juros livre de risco: 10.000000
+     Volatividade da acao: 1.000000
+     Tempo de validade da opcao: 1.000000
+     Numero de interacoes: 100000.000000 
+     
+   --------------------------------------------------------------------
+   |                        Conteudo do Arquivo                       |
+     100.0
+     110.0
+     10.0
+     1.0
+     1.0
+     100000
+   --------------------------------------------------------------------
+
+   --------------------------------------------------------------------
+   |                     Simulacao de Monte Carlo                     |
+   |                     Modelo de Black Scholes                      |
+
+     Valor da acao: 100.000000
+     Preco de exercicio da apcao: 110.000000
+     Taxa de juros livre de risco: 10.000000
+     Volatividade da acao: 1.000000
+     Tempo de validade da opcao: 1.000000
+     Numero de interacoes: 100000.000000 
+     
+     Valor da acao (S): 	100.000000
+     Preco de exercicio da opcao (E): 	110.000000
+     Taxa de juros livre de risco (SELIC) (r): 	10.000000
+     Volatividade da acao (sigma): 	1.000000
+     Tempo de validade da opcao (T): 	1.000000
+     Numero de iteracoes (M): 	100000
+     Intervalo de confianca: (99.5778, 101.1993)
+
+   |------------------------------------------------------------------|
+
+real	0m0,016s
+user	0m0,020s
+sys	0m0,004s
+
+   --------------------------------------------------------------------
+   |                        Conteudo do Arquivo                       |
+     100.0
+     110.0
+     10.0
+     1.0
+     1.0
+     100000
+   --------------------------------------------------------------------
+
+   --------------------------------------------------------------------
+   |                     Simulacao de Monte Carlo                     |
+   |                     Modelo de Black Scholes                      |
+
+     Valor da acao: 100.000000
+     Preco de exercicio da apcao: 110.000000
+     Taxa de juros livre de risco: 10.000000
+     Volatividade da acao: 1.000000
+     Tempo de validade da opcao: 1.000000
+     Numero de interacoes: 100000.000000 
+     
+   --------------------------------------------------------------------
+   |                        Conteudo do Arquivo                       |
+     100.0
+     110.0
+     10.0
+     1.0
+     1.0
+     100000
+   --------------------------------------------------------------------
+
+   --------------------------------------------------------------------
+   |                     Simulacao de Monte Carlo                     |
+   |                     Modelo de Black Scholes                      |
+
+     Valor da acao: 100.000000
+     Preco de exercicio da apcao: 110.000000
+     Taxa de juros livre de risco: 10.000000
+     Volatividade da acao: 1.000000
+     Tempo de validade da opcao: 1.000000
+     Numero de interacoes: 100000.000000 
+     
+     Valor da acao (S): 	100.000000
+     Preco de exercicio da opcao (E): 	110.000000
+     Taxa de juros livre de risco (SELIC) (r): 	10.000000
+     Volatividade da acao (sigma): 	1.000000
+     Tempo de validade da opcao (T): 	1.000000
+     Numero de iteracoes (M): 	100000
+     Intervalo de confianca: (99.3899, 101.0232)
+
+   |------------------------------------------------------------------|
+
+real	0m0,019s
+user	0m0,029s
+sys	0m0,000s
+
+   --------------------------------------------------------------------
+   |                        Conteudo do Arquivo                       |
+     100.0
+     110.0
+     10.0
+     1.0
+     1.0
+     100000
+   --------------------------------------------------------------------
+
+   --------------------------------------------------------------------
+   |                     Simulacao de Monte Carlo                     |
+   |                     Modelo de Black Scholes                      |
+
+     Valor da acao: 100.000000
+     Preco de exercicio da apcao: 110.000000
+     Taxa de juros livre de risco: 10.000000
+     Volatividade da acao: 1.000000
+     Tempo de validade da opcao: 1.000000
+     Numero de interacoes: 100000.000000 
+     
+   --------------------------------------------------------------------
+   |                        Conteudo do Arquivo                       |
+     100.0
+     110.0
+     10.0
+     1.0
+     1.0
+     100000
+   --------------------------------------------------------------------
+
+   --------------------------------------------------------------------
+   |                     Simulacao de Monte Carlo                     |
+   |                     Modelo de Black Scholes                      |
+
+     Valor da acao: 100.000000
+     Preco de exercicio da apcao: 110.000000
+     Taxa de juros livre de risco: 10.000000
+     Volatividade da acao: 1.000000
+     Tempo de validade da opcao: 1.000000
+     Numero de interacoes: 100000.000000 
+     
+     Valor da acao (S): 	100.000000
+     Preco de exercicio da opcao (E): 	110.000000
+     Taxa de juros livre de risco (SELIC) (r): 	10.000000
+     Volatividade da acao (sigma): 	1.000000
+     Tempo de validade da opcao (T): 	1.000000
+     Numero de iteracoes (M): 	100000
+     Intervalo de confianca: (98.0104, 99.6073)
+
+   |------------------------------------------------------------------|
+
+real	0m0,018s
+user	0m0,023s
+sys	0m0,004s
+
+   --------------------------------------------------------------------
+   |                        Conteudo do Arquivo                       |
+     100.0
+     110.0
+     10.0
+     1.0
+     1.0
+     100000
+   --------------------------------------------------------------------
+
+   --------------------------------------------------------------------
+   |                     Simulacao de Monte Carlo                     |
+   |                     Modelo de Black Scholes                      |
+
+     Valor da acao: 100.000000
+     Preco de exercicio da apcao: 110.000000
+     Taxa de juros livre de risco: 10.000000
+     Volatividade da acao: 1.000000
+     Tempo de validade da opcao: 1.000000
+     Numero de interacoes: 100000.000000 
+     
+   --------------------------------------------------------------------
+   |                        Conteudo do Arquivo                       |
+     100.0
+     110.0
+     10.0
+     1.0
+     1.0
+     100000
+   --------------------------------------------------------------------
+
+   --------------------------------------------------------------------
+   |                     Simulacao de Monte Carlo                     |
+   |                     Modelo de Black Scholes                      |
+
+     Valor da acao: 100.000000
+     Preco de exercicio da apcao: 110.000000
+     Taxa de juros livre de risco: 10.000000
+     Volatividade da acao: 1.000000
+     Tempo de validade da opcao: 1.000000
+     Numero de interacoes: 100000.000000 
+     
+     Valor da acao (S): 	100.000000
+     Preco de exercicio da opcao (E): 	110.000000
+     Taxa de juros livre de risco (SELIC) (r): 	10.000000
+     Volatividade da acao (sigma): 	1.000000
+     Tempo de validade da opcao (T): 	1.000000
+     Numero de iteracoes (M): 	100000
+     Intervalo de confianca: (99.7940, 101.4284)
+
+   |------------------------------------------------------------------|
+
+real	0m0,020s
+user	0m0,024s
+sys	0m0,004s
